@@ -1,0 +1,983 @@
+<bebidas>
+<bebida>
+   <nombre>Bebida Dylvian</nombre>
+   <descripcion>Prueba de bebida Dylvian</descripcion>
+   <descripcioncorta>Prueba de bebida Dylvian</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Caliente</temperatura>
+   <categoria>Café</categoria>
+   <subcategoria>Espresso</subcategoria>
+   <marcadodecaf>AAA</marcadodecaf>
+   <marcadoshots>BBB</marcadoshots>
+   <marcadojarabe>CCC</marcadojarabe>
+   <marcadoleche>DDD</marcadoleche>
+   <marcadopersonalizado>EEE</marcadopersonalizado>
+   <marcadobebida>FFF</marcadobebida>
+   <shot>2</shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/509.jpg</imagen>
+   <personalizacion>
+       <categoria>
+           <nombre>Jarabes</nombre>
+           <ingredientes>
+               <ingrediente>Vainilla</ingrediente>
+           </ingredientes>
+       </categoria>
+       <categoria>
+           <nombre>Leche</nombre>
+           <ingredientes>
+               <ingrediente>Soya</ingrediente>
+           </ingredientes>
+       </categoria>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Café del Día</nombre>
+   <descripcion>Disfruta de nuestra fascinante variedad de cafés del mundo.</descripcion>
+   <descripcioncorta>Disfruta de nuestra fascinante variedad de cafés del mundo.</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Caliente</temperatura>
+   <categoria>Café</categoria>
+   <subcategoria>Filtrado</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>COD</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/448.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Café Frappuccino</nombre>
+   <descripcion>Disfruta de tu café latte en frappuccino</descripcion>
+   <descripcioncorta>Disfruta de tu café latte en frappuccino</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Frío</temperatura>
+   <categoria>Con Café</categoria>
+   <subcategoria>Filtrado</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>CF</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/449.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Café helado</nombre>
+   <descripcion>Disfruta de tu café con un toque de hielo.</descripcion>
+   <descripcioncorta>Disfruta de tu café con un toque de hielo.</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Frío</temperatura>
+   <categoria>Con Café</categoria>
+   <subcategoria>Filtrado</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>IC</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/450.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Café Misto</nombre>
+   <descripcion>Disfruta de nuestra fascinante variedad de cafés del mundo con leche al vapor.</descripcion>
+   <descripcioncorta>Disfruta de nuestra fascinante variedad de cafés del mundo con leche al vapor.</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Caliente</temperatura>
+   <categoria>Café</categoria>
+   <subcategoria>Filtrado</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>MIS</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/451.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Caffè Expresso Americano</nombre>
+   <descripcion>Espresso intenso con agua caliente. Pídelo con una carga extra de espresso para más saborear más intensidad.</descripcion>
+   <descripcioncorta>Espresso intenso con agua caliente. Pídelo con una carga extra de espresso para más saborear más intensidad.</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Caliente</temperatura>
+   <categoria>Café</categoria>
+   <subcategoria>Espresso</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>EA</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/452.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Caffè Latte</nombre>
+   <descripcion>Combina leche al vapor y café espresso, ligeramente recubierto con suave espuma de leche. Pruébalo con un jarabe a tu elección</descripcion>
+   <descripcioncorta>Combina leche al vapor y café espresso, ligeramente recubierto con suave espuma de leche. Pruébalo con un jarabe a tu elección</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Caliente</temperatura>
+   <categoria>Café</categoria>
+   <subcategoria>Espresso</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>L</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/453.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Caffè Mocha</nombre>
+   <descripcion>Delicioso e intenso chocolate, con café espresso y leche al vapor, coronado con crema batida. Irresistible en los días fríos.</descripcion>
+   <descripcioncorta>Delicioso e intenso chocolate, con café espresso y leche al vapor, coronado con crema batida. Irresistible en los días fríos.</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Caliente</temperatura>
+   <categoria>Café</categoria>
+   <subcategoria>Espresso</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>M</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/454.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Caffè Mocha Blanco</nombre>
+   <descripcion>Espresso intenso, jarabe de chocolate blanco y leche al vapor coronada con crema batida</descripcion>
+   <descripcioncorta>Espresso intenso, jarabe de chocolate blanco y leche al vapor coronada con crema batida</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Caliente</temperatura>
+   <categoria>Café</categoria>
+   <subcategoria>Espresso</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>MB</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/455.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Capuccino</nombre>
+   <descripcion>Una bebida hecha con espresso y leche espumada - más espumosa que la leche hervida en un latte.</descripcion>
+   <descripcioncorta>Una bebida hecha con espresso y leche espumada - más espumosa que la leche hervida en un latte.</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Caliente</temperatura>
+   <categoria>Café</categoria>
+   <subcategoria>Espresso</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>C</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/456.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Caramel Frappuccino</nombre>
+   <descripcion>Combinación de café, vainilla, hielo frappé y crema batida y real caramelo</descripcion>
+   <descripcioncorta>Combinación de café, vainilla, hielo frappé y crema batida y real caramelo</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Frío</temperatura>
+   <categoria>Con Café</categoria>
+   <subcategoria>Espresso</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>CRF</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/457.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Caramel Macchiato</nombre>
+   <descripcion>Leche al vapor "manchada" con espresso y vainilla, cubierta con un característico dibujo de caramelo. Dulce, intenso y único.</descripcion>
+   <descripcioncorta>Leche al vapor "manchada" con espresso y vainilla, cubierta con un característico dibujo de caramelo. Dulce, intenso y único.</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Caliente</temperatura>
+   <categoria>Café</categoria>
+   <subcategoria>Espresso</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>CM</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/458.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Chai Cream Frappuccino</nombre>
+   <descripcion>Infusión de té negro con especias, base de leche y hielo frappé coronado con crema batida y polvo de canela.</descripcion>
+   <descripcioncorta>Infusión de té negro con especias, base de leche y hielo frappé coronado con crema batida y polvo de canela.</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Frío</temperatura>
+   <categoria>Sin Café</categoria>
+   <subcategoria>Espresso</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>CRM</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/459.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Chocolate</nombre>
+   <descripcion>Cocoa y leche al vapor coronada con crema batida y chocolate en polvo</descripcion>
+   <descripcioncorta>Cocoa y leche al vapor coronada con crema batida y chocolate en polvo</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Caliente</temperatura>
+   <categoria>Otras Bebidas</categoria>
+   <subcategoria>Chocolates</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>CH</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/470.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Chocolate Blanco</nombre>
+   <descripcion>Cocoa y leche al vapor coronada con crema batida y chocolate blanco en polvo</descripcion>
+   <descripcioncorta>Cocoa y leche al vapor coronada con crema batida y chocolate blanco en polvo</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Caliente</temperatura>
+   <categoria>Otras Bebidas</categoria>
+   <subcategoria>Chocolates</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>CHB</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/501.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Chocolate Cream Frappuccino</nombre>
+   <descripcion>Irresistible mezcla de crema con mocha, batido con hielo y coronado con crema batida y espiral de mocha.</descripcion>
+   <descripcioncorta>Irresistible mezcla de crema con mocha, batido con hielo y coronado con crema batida y espiral de mocha.</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Frío</temperatura>
+   <categoria>Con Café</categoria>
+   <subcategoria>Chocolates</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>CRM</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/461.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>English Breakfast Latte</nombre>
+   <descripcion>Té negro con escencias de Bergamota y leche al vapor</descripcion>
+   <descripcioncorta>Té negro con escencias de Bergamota y leche al vapor</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Caliente</temperatura>
+   <categoria>Tés</categoria>
+   <subcategoria>Tés Latte</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>T</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/462.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Espresso Clásico</nombre>
+   <descripcion>La esencia del café en la forma más concentrada.</descripcion>
+   <descripcioncorta>La esencia del café en la forma más concentrada.</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Caliente</temperatura>
+   <categoria>Café</categoria>
+   <subcategoria>Espresso</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>E</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/463.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Espresso con Panna</nombre>
+   <descripcion>Espresso intenso coronado con crema batida.</descripcion>
+   <descripcioncorta>Espresso intenso coronado con crema batida.</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Caliente</temperatura>
+   <categoria>Café</categoria>
+   <subcategoria>Espresso</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>EP</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/499.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Espresso Macchiato</nombre>
+   <descripcion>Espresso intenso con un toque de leche al vapor.</descripcion>
+   <descripcioncorta>Espresso intenso con un toque de leche al vapor.</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Caliente</temperatura>
+   <categoria>Café</categoria>
+   <subcategoria>Espresso</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>EM</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/500.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Frambuesa Grosella Frappuccino</nombre>
+   <descripcion>Infusión de té y jugo de frutas batido con hielo. Una fresca experiencia de sabor.</descripcion>
+   <descripcioncorta>Infusión de té y jugo de frutas batido con hielo. Una fresca experiencia de sabor.</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Frío</temperatura>
+   <categoria>Sin Café</categoria>
+   <subcategoria>Espresso</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>FG</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/466.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Frapuccino Chip</nombre>
+   <descripcion>Café, chips de chocolate, chocolate y hielo frappé coronado con crema batida y espiral de mocha</descripcion>
+   <descripcioncorta>Café, chips de chocolate, chocolate y hielo frappé coronado con crema batida y espiral de mocha</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Frío</temperatura>
+   <categoria>Con Café</categoria>
+   <subcategoria>Espresso</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>FC</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/467.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Fresa Cream Frappuccino</nombre>
+   <descripcion>Deliciosa mezcla de crema de fresa, batido con hielo y coronado con crema batida.</descripcion>
+   <descripcioncorta>Deliciosa mezcla de crema de fresa, batido con hielo y coronado con crema batida.</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Frío</temperatura>
+   <categoria>Sin Café</categoria>
+   <subcategoria>Espresso</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>CRM</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/468.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Green Tea Frappuccino</nombre>
+   <descripcion>Té verde, base de leche y hielo frappé coronado con crema batida.</descripcion>
+   <descripcioncorta>Té verde, base de leche y hielo frappé coronado con crema batida.</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Frío</temperatura>
+   <categoria>Sin Café</categoria>
+   <subcategoria>Espresso</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>CRM</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/471.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Green Tea Latte</nombre>
+   <descripcion>Dulce Matcha té verde y leche al vapor</descripcion>
+   <descripcioncorta>Dulce Matcha té verde y leche al vapor</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Caliente</temperatura>
+   <categoria>Tés</categoria>
+   <subcategoria>Tés Latte</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>GTL</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/472.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Helado Cajeta Latte</nombre>
+   <descripcion>Combinación de café, cajeta y hielo con crema batida y caramelo</descripcion>
+   <descripcioncorta>Combinación de café, cajeta y hielo con crema batida y caramelo</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Frío</temperatura>
+   <categoria>Sin Café</categoria>
+   <subcategoria>Tés Latte</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>L</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/473.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Helado Caramel Macchiato</nombre>
+   <descripcion>Combinación de café, vainilla, hielo y crema batida y real caramelo</descripcion>
+   <descripcioncorta>Combinación de café, vainilla, hielo y crema batida y real caramelo</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Frío</temperatura>
+   <categoria>Con Café</categoria>
+   <subcategoria>Tés Latte</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>CM</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/474.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Helado Green Tea Latte</nombre>
+   <descripcion>Té verde, base de leche y hielo.</descripcion>
+   <descripcioncorta>Té verde, base de leche y hielo.</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Frío</temperatura>
+   <categoria>Sin Café</categoria>
+   <subcategoria>Tés Latte</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>GTL</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/475.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Helado Latte</nombre>
+   <descripcion>Disfruta de tu café con leche y un toque de hielo.</descripcion>
+   <descripcioncorta>Disfruta de tu café con leche y un toque de hielo.</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Frío</temperatura>
+   <categoria>Con Café</categoria>
+   <subcategoria>Tés Latte</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>L</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/476.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Helado Mocha</nombre>
+   <descripcion>Dulce combinación  de chocolate, café, leche y hielo.</descripcion>
+   <descripcioncorta>Dulce combinación  de chocolate, café, leche y hielo.</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Frío</temperatura>
+   <categoria>Con Café</categoria>
+   <subcategoria>Tés Latte</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>M</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/477.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Helado Mocha Blanco</nombre>
+   <descripcion>Irresistible combinación de chocolate blanco, nuestra carga de espresso y leche caliente, coronado con crema batida.</descripcion>
+   <descripcioncorta>Irresistible combinación de chocolate blanco, nuestra carga de espresso y leche caliente, coronado con crema batida.</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Frío</temperatura>
+   <categoria>Con Café</categoria>
+   <subcategoria>Tés Latte</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>MB</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/478.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Helado Té Chai Latte</nombre>
+   <descripcion>Infusión de té negro con especias, base de leche y cubos de hielo.</descripcion>
+   <descripcioncorta>Infusión de té negro con especias, base de leche y cubos de hielo.</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Frío</temperatura>
+   <categoria>Sin Café</categoria>
+   <subcategoria>Tés Latte</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>CHAI</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/479.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Leche al vapor</nombre>
+   <descripcion>Leche caliente</descripcion>
+   <descripcioncorta>Leche caliente</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Caliente</temperatura>
+   <categoria>Otras Bebidas</categoria>
+   <subcategoria>Leche</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>LV</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/480.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Mango Maracuyá Frappuccino</nombre>
+   <descripcion>Concentrado de té que combina mango y maracuyá, batido con hielo. Muy rico y refrescante.</descripcion>
+   <descripcioncorta>Concentrado de té que combina mango y maracuyá, batido con hielo. Muy rico y refrescante.</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Frío</temperatura>
+   <categoria>Sin Café</categoria>
+   <subcategoria>Leche</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>MM</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/481.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Mocha Blanco Frappuccino</nombre>
+   <descripcion>Espresso intenso,chocolate blanco y leche coronada con crema batida</descripcion>
+   <descripcioncorta>Espresso intenso,chocolate blanco y leche coronada con crema batida</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Frío</temperatura>
+   <categoria>Con Café</categoria>
+   <subcategoria>Leche</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>MBF</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/482.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Mocha Frappuccino</nombre>
+   <descripcion>Chocolate, café y leche en frappé</descripcion>
+   <descripcioncorta>Chocolate, café y leche en frappé</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Frío</temperatura>
+   <categoria>Con Café</categoria>
+   <subcategoria>Leche</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>MF</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/483.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Shaken Green Tea</nombre>
+   <descripcion>Disfruta del té verde mezclado con hielo y un toque de limón.</descripcion>
+   <descripcioncorta>Disfruta del té verde mezclado con hielo y un toque de limón.</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Frío</temperatura>
+   <categoria>Sin Café</categoria>
+   <subcategoria>Leche</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>LGT</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/484.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Shaken Lemon Black Tea</nombre>
+   <descripcion>Disfruta del té negro mezclado con hielo y un toque de limón.</descripcion>
+   <descripcioncorta>Disfruta del té negro mezclado con hielo y un toque de limón.</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Frío</temperatura>
+   <categoria>Sin Café</categoria>
+   <subcategoria>Leche</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>LBT</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/485.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Shaken Lemon Passion Tea</nombre>
+   <descripcion>Disfruta del té passion-hibiscus mezclado con hielo y un toque de limón.</descripcion>
+   <descripcioncorta>Disfruta del té passion-hibiscus mezclado con hielo y un toque de limón.</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Frío</temperatura>
+   <categoria>Sin Café</categoria>
+   <subcategoria>Leche</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>LPT</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/486.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Té Chai</nombre>
+   <descripcion>Mezcla de tés negros y especias exóticas</descripcion>
+   <descripcioncorta>Mezcla de tés negros y especias exóticas</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Caliente</temperatura>
+   <categoria>Tés</categoria>
+   <subcategoria>Infusiones</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>T</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/487.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Té Chai Latte</nombre>
+   <descripcion>Té negro, infusiones especiadas y leche al vapor.</descripcion>
+   <descripcioncorta>Té negro, infusiones especiadas y leche al vapor.</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Caliente</temperatura>
+   <categoria>Tés</categoria>
+   <subcategoria>Tés Latte</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>CHAI</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/488.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Té China Green Tips</nombre>
+   <descripcion>Delicado té verde con un toque fino de frescura.</descripcion>
+   <descripcioncorta>Delicado té verde con un toque fino de frescura.</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Caliente</temperatura>
+   <categoria>Tés</categoria>
+   <subcategoria>Infusiones</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>T</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/489.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Té de Manzanilla</nombre>
+   <descripcion>Té de relajante manzanilla</descripcion>
+   <descripcioncorta>Té de relajante manzanilla</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Caliente</temperatura>
+   <categoria>Tés</categoria>
+   <subcategoria>Infusiones</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>T</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/490.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Té de Menta</nombre>
+   <descripcion>Una fresca mezcla de menta y hierbabuena</descripcion>
+   <descripcioncorta>Una fresca mezcla de menta y hierbabuena</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Caliente</temperatura>
+   <categoria>Tés</categoria>
+   <subcategoria>Infusiones</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>T</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/491.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Té English Breakfast</nombre>
+   <descripcion>Té negro con escencias de Bergamota.</descripcion>
+   <descripcioncorta>Té negro con escencias de Bergamota.</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Caliente</temperatura>
+   <categoria>Tés</categoria>
+   <subcategoria>Infusiones</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>T</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/492.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Té helado</nombre>
+   <descripcion>Nuestras infusiones en su versión helada.</descripcion>
+   <descripcioncorta>Nuestras infusiones en su versión helada.</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Frío</temperatura>
+   <categoria>Sin Café</categoria>
+   <subcategoria>Infusiones</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>T</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/493.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Té Passion Hibiscus</nombre>
+   <descripcion>Una mezcla de hibiscus, lemon grass, rose hips, mango y passion fruit.</descripcion>
+   <descripcioncorta>Una mezcla de hibiscus, lemon grass, rose hips, mango y passion fruit.</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Caliente</temperatura>
+   <categoria>Tés</categoria>
+   <subcategoria>Infusiones</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>T</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/494.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Té Vainilla Rooibos</nombre>
+   <descripcion>Mezcla de rooibos, vainilla tahitiana, canela, manzanas y duraznos.</descripcion>
+   <descripcioncorta>Mezcla de rooibos, vainilla tahitiana, canela, manzanas y duraznos.</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Caliente</temperatura>
+   <categoria>Tés</categoria>
+   <subcategoria>Infusiones</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>T</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/495.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Vainilla Cappuccino</nombre>
+   <descripcion>Espresso intenso, jarabe de vainilla, leche al vapor y una profunda capa de leche espumada</descripcion>
+   <descripcioncorta>Espresso intenso, jarabe de vainilla, leche al vapor y una profunda capa de leche espumada</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Caliente</temperatura>
+   <categoria>Café</categoria>
+   <subcategoria>Espresso</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>C</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/496.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Vainilla Cream Frappuccino</nombre>
+   <descripcion>Deliciosa mezcla de crema de vainilla, batido con hielo y coronado con crema batida.</descripcion>
+   <descripcioncorta>Deliciosa mezcla de crema de vainilla, batido con hielo y coronado con crema batida.</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Frío</temperatura>
+   <categoria>Sin Café</categoria>
+   <subcategoria>Espresso</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>CRM</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/497.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+<bebida>
+   <nombre>Vanilla Rooibos Latte</nombre>
+   <descripcion>Mezcla de rooibos, vainilla tahitiana, canela, manzanas, duraznos y leche al vapor.</descripcion>
+   <descripcioncorta>Mezcla de rooibos, vainilla tahitiana, canela, manzanas, duraznos y leche al vapor.</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <temperatura>Caliente</temperatura>
+   <categoria>Tés</categoria>
+   <subcategoria>Tés Latte</subcategoria>
+   <marcadodecaf></marcadodecaf>
+   <marcadoshots></marcadoshots>
+   <marcadojarabe></marcadojarabe>
+   <marcadoleche></marcadoleche>
+   <marcadopersonalizado></marcadopersonalizado>
+   <marcadobebida>VRTL</marcadobebida>
+   <shot></shot>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/498.jpg</imagen>
+   <personalizacion>
+   </personalizacion>
+</bebida>
+</bebidas>

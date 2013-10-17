@@ -1,0 +1,11 @@
+.lista_sin_formato {
+    padding: 0px;
+}
+
+.lista_sin_formato li{
+    list-style-type: none
+}
+
+.eliminar_imagen_cafe {
+    margin-top: 2px
+}

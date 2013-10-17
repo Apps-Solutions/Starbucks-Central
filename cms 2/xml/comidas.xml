@@ -1,0 +1,509 @@
+<comidas>
+<comida>
+   <nombre>Alimento Dylvian</nombre>
+   <descripcion>Prueba de Alimento Dylvian</descripcion>
+   <descripcioncorta>Prueba de Alimento Dylvian</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <categoria>Galletas y Antojos</categoria>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/508.jpg</imagen>
+   <alergenos>
+       <alergeno>Sin Trigo</alergeno>
+       <alergeno>Sin Cacahuetes</alergeno>
+       <alergeno>Sin Almendras</alergeno>
+       <alergeno>Sin Lactosa</alergeno>
+       <alergeno>Sin Soja</alergeno>
+       <alergeno>Sin Huevo</alergeno>
+       <alergeno>Sin Pescado</alergeno>
+   </alergenos>
+   <combinaciones>
+       <combinacion>
+           <nombre>Anniversary Blend</nombre>
+           <disponibilidad>Temporada</disponibilidad>
+           <imagen>http://200.53.147.250/cms/xml/imagenes/380.jpg</imagen>
+       </combinacion>
+       <combinacion>
+           <nombre>Caffè Verona</nombre>
+           <disponibilidad>Todo el año</disponibilidad>
+           <imagen>http://200.53.147.250/cms/xml/imagenes/382.jpg</imagen>
+       </combinacion>
+       <combinacion>
+           <nombre>Guatemala Casi Cielo</nombre>
+           <disponibilidad>Temporada</disponibilidad>
+           <imagen>http://200.53.147.250/cms/xml/imagenes/391.jpg</imagen>
+       </combinacion>
+       <combinacion>
+           <nombre>Cafe Dylvian</nombre>
+           <disponibilidad>Todo el año</disponibilidad>
+           <imagen>http://200.53.147.250/cms/xml/imagenes/502.jpg</imagen>
+       </combinacion>
+   </combinaciones>
+</comida>
+<comida>
+   <nombre>Bagel Tradicional</nombre>
+   <descripcion>Bagel natural con queso crema y mermelada</descripcion>
+   <descripcioncorta>Bagel natural con queso crema y mermelada</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <categoria>Panaderia</categoria>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/407.jpg</imagen>
+   <alergenos>
+   </alergenos>
+   <combinaciones>
+   </combinaciones>
+</comida>
+<comida>
+   <nombre>Baguette de Pollo</nombre>
+   <descripcion>Crujiente baguette con fajitas de pollo al mezquite, jitomate deshidratado y un toque de aderezo de aceituna negra</descripcion>
+   <descripcioncorta>Crujiente baguette con fajitas de pollo al mezquite, jitomate deshidratado y un toque de aderezo de aceituna negra</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <categoria>Sandwiches y Especialidades</categoria>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/408.jpg</imagen>
+   <alergenos>
+   </alergenos>
+   <combinaciones>
+   </combinaciones>
+</comida>
+<comida>
+   <nombre>Big Apple Pie</nombre>
+   <descripcion>Tradicional pastel elaborado a base de trozos de manzana. ¡Pruébalo caliente!</descripcion>
+   <descripcioncorta>Tradicional pastel elaborado a base de trozos de manzana. ¡Pruébalo caliente!</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <categoria>Pasteleria</categoria>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/409.jpg</imagen>
+   <alergenos>
+   </alergenos>
+   <combinaciones>
+   </combinaciones>
+</comida>
+<comida>
+   <nombre>Biscotties</nombre>
+   <descripcion>Galletas tipo biscottie en tres sabores: Chocolate, arándanos y chocolate blanco y almendras</descripcion>
+   <descripcioncorta>Galletas tipo biscottie en tres sabores: Chocolate, arándanos y chocolate blanco y almendras</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <categoria>Galletas y Antojos</categoria>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/410.jpg</imagen>
+   <alergenos>
+   </alergenos>
+   <combinaciones>
+   </combinaciones>
+</comida>
+<comida>
+   <nombre>Brownie Cookie Bar</nombre>
+   <descripcion>Brownie de Chocolate semiamargo con una cubierta de galleta con chispas de chocolate</descripcion>
+   <descripcioncorta>Brownie de Chocolate semiamargo con una cubierta de galleta con chispas de chocolate</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <categoria>Galletas y Antojos</categoria>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/412.jpg</imagen>
+   <alergenos>
+   </alergenos>
+   <combinaciones>
+   </combinaciones>
+</comida>
+<comida>
+   <nombre>Cajeta Cheesecake</nombre>
+   <descripcion>Suave cheesecake de vainilla con cajeta en el interior y chunks de caramelo, salsa de cajeta y caramelo en la superficie</descripcion>
+   <descripcioncorta>Suave cheesecake de vainilla con cajeta en el interior y chunks de caramelo, salsa de cajeta y caramelo en la superficie</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <categoria>Pasteleria</categoria>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/411.jpg</imagen>
+   <alergenos>
+   </alergenos>
+   <combinaciones>
+   </combinaciones>
+</comida>
+<comida>
+   <nombre>Cheesecake Brulee de Frambuesa</nombre>
+   <descripcion>Cheesecake de vainilla cubierto de una salsa de frambuesa</descripcion>
+   <descripcioncorta>Cheesecake de vainilla cubierto de una salsa de frambuesa</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <categoria>Pasteleria</categoria>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/413.jpg</imagen>
+   <alergenos>
+   </alergenos>
+   <combinaciones>
+   </combinaciones>
+</comida>
+<comida>
+   <nombre>Classic Chocolate Cake</nombre>
+   <descripcion>Pastel de chocolate cubierto de salsa de chocolate semiamargo, decorado con nueces</descripcion>
+   <descripcioncorta>Pastel de chocolate cubierto de salsa de chocolate semiamargo, decorado con nueces</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <categoria>Pasteleria</categoria>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/414.jpg</imagen>
+   <alergenos>
+   </alergenos>
+   <combinaciones>
+   </combinaciones>
+</comida>
+<comida>
+   <nombre>Croissant de Jamón y Queso</nombre>
+   <descripcion>Tradicional cuernito de jamón de pavo con queso manchego y un ligero toque de aderezo a las finas hierbas</descripcion>
+   <descripcioncorta>Tradicional cuernito de jamón de pavo con queso manchego y un ligero toque de aderezo a las finas hierbas</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <categoria>Sandwiches y Especialidades</categoria>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/415.jpg</imagen>
+   <alergenos>
+   </alergenos>
+   <combinaciones>
+   </combinaciones>
+</comida>
+<comida>
+   <nombre>Croissant de Mantequilla</nombre>
+   <descripcion>Delicioso y suave croissant de mantequilla</descripcion>
+   <descripcioncorta>Delicioso y suave croissant de mantequilla</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <categoria>Panaderia</categoria>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/416.jpg</imagen>
+   <alergenos>
+   </alergenos>
+   <combinaciones>
+   </combinaciones>
+</comida>
+<comida>
+   <nombre>Croissant Integral a la Mexicana</nombre>
+   <descripcion>Saludable cuernito integral con linaza, huevo a la mexicana, jamón de pavo, queso cheddar y un toque de frijoles.</descripcion>
+   <descripcioncorta>Saludable cuernito integral con linaza, huevo a la mexicana, jamón de pavo, queso cheddar y un toque de frijoles</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <categoria>Sandwiches y Especialidades</categoria>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/417.jpg</imagen>
+   <alergenos>
+   </alergenos>
+   <combinaciones>
+   </combinaciones>
+</comida>
+<comida>
+   <nombre>Envuelto de Champiñones</nombre>
+   <descripcion>Aromático y suave pan, relleno de champiñones, tocino y un toque de queso crema con chipotle</descripcion>
+   <descripcioncorta>Aromático y suave pan, relleno de champiñones, tocino y un toque de queso crema con chipotle</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <categoria>Sandwiches y Especialidades</categoria>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/418.jpg</imagen>
+   <alergenos>
+   </alergenos>
+   <combinaciones>
+   </combinaciones>
+</comida>
+<comida>
+   <nombre>Envuelto Poblano</nombre>
+   <descripcion>Suave pan con queso parmesano, relleno de pollo, rajas de poblano, elote y un toque de queso crema</descripcion>
+   <descripcioncorta>Suave pan con queso parmesano, relleno de pollo, rajas de poblano, elote y un toque de queso crema</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <categoria>Sandwiches y Especialidades</categoria>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/419.jpg</imagen>
+   <alergenos>
+   </alergenos>
+   <combinaciones>
+   </combinaciones>
+</comida>
+<comida>
+   <nombre>Galleta Chocochips</nombre>
+   <descripcion>Suave galleta de vainilla con trozos de chocolate semiamargo</descripcion>
+   <descripcioncorta>Suave galleta de vainilla con trozos de chocolate semiamargo</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <categoria>Galletas y Antojos</categoria>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/421.jpg</imagen>
+   <alergenos>
+   </alergenos>
+   <combinaciones>
+   </combinaciones>
+</comida>
+<comida>
+   <nombre>Galleta Doble Chocolate</nombre>
+   <descripcion>Suave galleta de chocolate con trozos de chocolate blanco en el interior.</descripcion>
+   <descripcioncorta>Suave galleta de chocolate con trozos de chocolate blanco en el interior.</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <categoria>Galletas y Antojos</categoria>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/422.jpg</imagen>
+   <alergenos>
+   </alergenos>
+   <combinaciones>
+   </combinaciones>
+</comida>
+<comida>
+   <nombre>Galleta Manzana y Cereales</nombre>
+   <descripcion>Galleta de consistencia muy suave que contiene trozos de manzana deshidratada, canela, amaranto, pasas, trigo y salvado.</descripcion>
+   <descripcioncorta>Galleta de consistencia muy suave que contiene trozos de manzana deshidratada, canela, amaranto, pasas, trigo y salvado.</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <categoria>Galletas y Antojos</categoria>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/423.jpg</imagen>
+   <alergenos>
+   </alergenos>
+   <combinaciones>
+   </combinaciones>
+</comida>
+<comida>
+   <nombre>Galleta Sugar Free</nombre>
+   <descripcion>Galletas elaboradas con sustituto de azúcar en dos sabores: Chocolate con nuez y Vainilla con arándanos y chocolate blanco</descripcion>
+   <descripcioncorta>Galletas elaboradas con sustituto de azúcar en dos sabores: Chocolate con nuez y Vainilla con arándanos y chocolate blanco</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <categoria>Galletas y Antojos</categoria>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/424.jpg</imagen>
+   <alergenos>
+   </alergenos>
+   <combinaciones>
+   </combinaciones>
+</comida>
+<comida>
+   <nombre>Galletas Chai</nombre>
+   <descripcion>Paquete de 6 galletas de mantequilla con sabor a te Chai. Suave y especiada.</descripcion>
+   <descripcioncorta>Paquete de 6 galletas de mantequilla con sabor a te Chai. Suave y especiada.</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <categoria>Galletas y Antojos</categoria>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/426.jpg</imagen>
+   <alergenos>
+   </alergenos>
+   <combinaciones>
+   </combinaciones>
+</comida>
+<comida>
+   <nombre>Hojaldre de Maple y Manzana</nombre>
+   <descripcion>Crujiente masa hojaldrada rellena de jalea de maple y manzana</descripcion>
+   <descripcioncorta>Crujiente masa hojaldrada rellena de jalea de maple y manzana</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <categoria>Panaderia</categoria>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/427.jpg</imagen>
+   <alergenos>
+   </alergenos>
+   <combinaciones>
+   </combinaciones>
+</comida>
+<comida>
+   <nombre>Muffin de Blueberry</nombre>
+   <descripcion>Delicioso y suave muffin de mora azul, 100% fruta natural con un suave y ligero toque cítrico a naranja</descripcion>
+   <descripcioncorta>Delicioso y suave muffin de mora azul, 100% fruta natural con un suave y ligero toque cítrico a naranja</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <categoria>Panaderia</categoria>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/428.jpg</imagen>
+   <alergenos>
+   </alergenos>
+   <combinaciones>
+   </combinaciones>
+</comida>
+<comida>
+   <nombre>Muffin de Choco Chip</nombre>
+   <descripcion>Delicioso muffin de chocolate con chispas de chocolate en su interior</descripcion>
+   <descripcioncorta>Delicioso muffin de chocolate con chispas de chocolate en su interior</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <categoria>Panaderia</categoria>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/429.jpg</imagen>
+   <alergenos>
+   </alergenos>
+   <combinaciones>
+   </combinaciones>
+</comida>
+<comida>
+   <nombre>Muffin de Plátano con Nuez</nombre>
+   <descripcion>Esponjoso muffin de plátano con trocitos de nuez</descripcion>
+   <descripcioncorta>Esponjoso muffin de plátano con trocitos de nuez</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <categoria>Panaderia</categoria>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/430.jpg</imagen>
+   <alergenos>
+   </alergenos>
+   <combinaciones>
+   </combinaciones>
+</comida>
+<comida>
+   <nombre>Nueces y Fruta Seca</nombre>
+   <descripcion>Mezcla de nuez de la india, arándanos y pasas para el antojo de la tarde.</descripcion>
+   <descripcioncorta>Mezcla de nuez de la india, arándanos y pasas para el antojo de la tarde.</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <categoria>Galletas y Antojos</categoria>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/432.jpg</imagen>
+   <alergenos>
+   </alergenos>
+   <combinaciones>
+   </combinaciones>
+</comida>
+<comida>
+   <nombre>Pan de Chocolate</nombre>
+   <descripcion>Crujiente masa hojaldrada rellena de chocolate semiamargo</descripcion>
+   <descripcioncorta>Crujiente masa hojaldrada rellena de chocolate semiamargo</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <categoria>Panaderia</categoria>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/431.jpg</imagen>
+   <alergenos>
+   </alergenos>
+   <combinaciones>
+   </combinaciones>
+</comida>
+<comida>
+   <nombre>Pan de Queso</nombre>
+   <descripcion>Tradicional receta Brasileña. Elaborado con harina de tapioca y queso tipo parmesano</descripcion>
+   <descripcioncorta>Tradicional receta Brasileña. Elaborado con harina de tapioca y queso tipo parmesano</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <categoria>Sandwiches y Especialidades</categoria>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/433.jpg</imagen>
+   <alergenos>
+   </alergenos>
+   <combinaciones>
+   </combinaciones>
+</comida>
+<comida>
+   <nombre>Panini Clásico</nombre>
+   <descripcion>Nuestra ya tradicional focaccia con jamón de pierna, queso gouda y aderezo de chipotle</descripcion>
+   <descripcioncorta>Nuestra ya tradicional focaccia con jamón de pierna, queso gouda y aderezo de chipotle</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <categoria>Sandwiches y Especialidades</categoria>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/435.jpg</imagen>
+   <alergenos>
+   </alergenos>
+   <combinaciones>
+   </combinaciones>
+</comida>
+<comida>
+   <nombre>Panini de Tres Quesos</nombre>
+   <descripcion>El original panini de tres quesos (ceniza de cabra, gouda y manchego), con un toque de aderezo de chipotle y chabacano, dentro de una focaccia de jitomate.</descripcion>
+   <descripcioncorta>El original panini de tres quesos (ceniza de cabra, gouda y manchego), con un toque de aderezo de chipotle y chabacano, dentro de una focaccia de jito</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <categoria>Sandwiches y Especialidades</categoria>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/434.jpg</imagen>
+   <alergenos>
+   </alergenos>
+   <combinaciones>
+   </combinaciones>
+</comida>
+<comida>
+   <nombre>Panini Español</nombre>
+   <descripcion>Focaccia con chorizo español, queso manchego y aderezo de chipotle</descripcion>
+   <descripcioncorta>Focaccia con chorizo español, queso manchego y aderezo de chipotle</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <categoria>Sandwiches y Especialidades</categoria>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/436.jpg</imagen>
+   <alergenos>
+   </alergenos>
+   <combinaciones>
+   </combinaciones>
+</comida>
+<comida>
+   <nombre>Panqué de Limón</nombre>
+   <descripcion>La tradicional receta de panqué de limón cubierto con glaseado cítrico</descripcion>
+   <descripcioncorta>La tradicional receta de panqué de limón cubierto con glaseado cítrico</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <categoria>Panaderia</categoria>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/438.jpg</imagen>
+   <alergenos>
+   </alergenos>
+   <combinaciones>
+   </combinaciones>
+</comida>
+<comida>
+   <nombre>Panqué de Naranja</nombre>
+   <descripcion>Suave panqué de naranja con un toque de vainilla y moronas de azúcar en la superficie</descripcion>
+   <descripcioncorta>Suave panqué de naranja con un toque de vainilla y moronas de azúcar en la superficie</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <categoria>Panaderia</categoria>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/437.jpg</imagen>
+   <alergenos>
+   </alergenos>
+   <combinaciones>
+   </combinaciones>
+</comida>
+<comida>
+   <nombre>Panqué Integral de Avena y Miel</nombre>
+   <descripcion>Esponjoso panqué integral con avena y toques de miel</descripcion>
+   <descripcioncorta>Esponjoso panqué integral con avena y toques de miel</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <categoria>Panaderia</categoria>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/439.jpg</imagen>
+   <alergenos>
+   </alergenos>
+   <combinaciones>
+   </combinaciones>
+</comida>
+<comida>
+   <nombre>Panqué Marmoleado</nombre>
+   <descripcion>Delicioso panqué marmoleado sabor vainilla y chocolate, espolvoreado con azúcar glas en su cubierta</descripcion>
+   <descripcioncorta>Delicioso panqué marmoleado sabor vainilla y chocolate, espolvoreado con azúcar glas en su cubierta</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <categoria>Panaderia</categoria>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/442.jpg</imagen>
+   <alergenos>
+   </alergenos>
+   <combinaciones>
+   </combinaciones>
+</comida>
+<comida>
+   <nombre>Pastel de Zanahoria</nombre>
+   <descripcion>Suave y esponjoso pastel de zanahoria</descripcion>
+   <descripcioncorta>Suave y esponjoso pastel de zanahoria</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <categoria>Pasteleria</categoria>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/440.jpg</imagen>
+   <alergenos>
+   </alergenos>
+   <combinaciones>
+   </combinaciones>
+</comida>
+<comida>
+   <nombre>Rollo de Canela</nombre>
+   <descripcion>Delicioso y suave rollo de canela y exquisito glaseado de queso crema y azúcar</descripcion>
+   <descripcioncorta>Delicioso y suave rollo de canela y exquisito glaseado de queso crema y azúcar</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <categoria>Panaderia</categoria>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/441.jpg</imagen>
+   <alergenos>
+   </alergenos>
+   <combinaciones>
+   </combinaciones>
+</comida>
+<comida>
+   <nombre>Sándwich de Pavo</nombre>
+   <descripcion>Ligero pan integral con jamón de pavo, queso panela, espinacas y aderezo de yogurt</descripcion>
+   <descripcioncorta>Ligero pan integral con jamón de pavo, queso panela, espinacas y aderezo de yogurt</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <categoria>Sandwiches y Especialidades</categoria>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/443.jpg</imagen>
+   <alergenos>
+   </alergenos>
+   <combinaciones>
+   </combinaciones>
+</comida>
+<comida>
+   <nombre>Sándwich de Vegetales</nombre>
+   <descripcion>Ligero pan de tomate con una mezcla de vegetales asados a la parrilla, gratinados con queso manchego y un toque de aderezo de jocoque</descripcion>
+   <descripcioncorta>Ligero pan de tomate con una mezcla de vegetales asados a la parrilla, gratinados con queso manchego y un toque de aderezo de jocoque</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <categoria>Sandwiches y Especialidades</categoria>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/445.jpg</imagen>
+   <alergenos>
+   </alergenos>
+   <combinaciones>
+   </combinaciones>
+</comida>
+<comida>
+   <nombre>Tarta de Moras</nombre>
+   <descripcion>Suave galleta de vainilla rellena de chocolate blanco con zarzamoras</descripcion>
+   <descripcioncorta>Suave galleta de vainilla rellena de chocolate blanco con zarzamoras</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <categoria>Pasteleria</categoria>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/444.jpg</imagen>
+   <alergenos>
+   </alergenos>
+   <combinaciones>
+   </combinaciones>
+</comida>
+<comida>
+   <nombre>Tarta de Pera</nombre>
+   <descripcion>Tarta horneada rellena de pera con toques de almendra</descripcion>
+   <descripcioncorta>Tarta horneada rellena de pera con toques de almendra</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <categoria>Pasteleria</categoria>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/446.jpg</imagen>
+   <alergenos>
+   </alergenos>
+   <combinaciones>
+   </combinaciones>
+</comida>
+<comida>
+   <nombre>Tejas de Almendra</nombre>
+   <descripcion>Crujientes galletas de mantequilla con almendras tostadas</descripcion>
+   <descripcioncorta>Crujientes galletas de mantequilla con almendras tostadas</descripcioncorta>
+   <disponibilidad>Todo el año</disponibilidad>
+   <categoria>Galletas y Antojos</categoria>
+   <imagen>http://200.53.147.250/cms/xml/imagenes/447.jpg</imagen>
+   <alergenos>
+   </alergenos>
+   <combinaciones>
+   </combinaciones>
+</comida>
+</comidas>

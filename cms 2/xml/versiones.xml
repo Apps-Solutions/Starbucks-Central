@@ -1,0 +1,22 @@
+<secciones>
+   <seccion>
+       <nombre>cafes</nombre>
+       <version>98</version>
+       <fichero>http://200.53.147.250/cms/xml/cafes.xml</fichero>
+   </seccion>
+   <seccion>
+       <nombre>comidas</nombre>
+       <version>133</version>
+       <fichero>http://200.53.147.250/cms/xml/comidas.xml</fichero>
+   </seccion>
+   <seccion>
+       <nombre>bebidas</nombre>
+       <version>122</version>
+       <fichero>http://200.53.147.250/cms/xml/bebidas.xml</fichero>
+   </seccion>
+   <seccion>
+       <nombre>tiendas</nombre>
+       <version>54</version>
+       <fichero>http://200.53.147.250/cms/xml/tiendas.xml</fichero>
+   </seccion>
+</secciones>

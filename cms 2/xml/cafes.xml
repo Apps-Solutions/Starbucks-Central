@@ -1,0 +1,203 @@
+<cafes>
+<cafe>
+   <nombre>Anniversary Blend</nombre>
+   <descripcion>La mezcla de Aniversario de Starbucks es una mezcla de granos añejos de Indonesia y Asia-Pacífico dando como resultado una combinación profundamente suave y un poco especiado con un cuerpo completo y extremadamente sabroso.</descripcion>
+   <disponibilidad>Temporada</disponibilidad>
+   <perfil>Temporada</perfil>
+   <forma>Café de grano entero</forma>
+   <sabores>
+       <sabor>Acaramelado</sabor>
+       <sabor>Especiado</sabor>
+       <sabor>Mantequilloso</sabor>
+   </sabores>
+   <imagenprincipal>http://200.53.147.250/cms/xml/imagenes/380.jpg</imagenprincipal>
+   <imagenes>
+       <imagen>http://200.53.147.250/cms/xml/imagenes/381.jpg</imagen>
+   </imagenes>
+</cafe>
+<cafe>
+   <nombre>Cafe Dylvian</nombre>
+   <descripcion>Prueba cafe Dylvian</descripcion>
+   <disponibilidad>Todo el año</disponibilidad>
+   <perfil>Blonde</perfil>
+   <forma>Café de grano entero</forma>
+   <sabores>
+       <sabor>Caramelo</sabor>
+       <sabor>Complejo</sabor>
+       <sabor>Acaramelado</sabor>
+   </sabores>
+   <imagenprincipal>http://200.53.147.250/cms/xml/imagenes/502.jpg</imagenprincipal>
+   <imagenes>
+       <imagen>http://200.53.147.250/cms/xml/imagenes/503.jpg</imagen>
+       <imagen>http://200.53.147.250/cms/xml/imagenes/504.jpg</imagen>
+       <imagen>http://200.53.147.250/cms/xml/imagenes/505.jpg</imagen>
+       <imagen>http://200.53.147.250/cms/xml/imagenes/506.jpg</imagen>
+       <imagen>http://200.53.147.250/cms/xml/imagenes/507.jpg</imagen>
+   </imagenes>
+</cafe>
+<cafe>
+   <nombre>Caffè Verona</nombre>
+   <descripcion>Esta mezcla multiregional es el corazón de nuestras bebidas de esperesso. Oferce un rico aroma y suave acidez equilibrada con una densa y acaramelada dulzura.</descripcion>
+   <disponibilidad>Todo el año</disponibilidad>
+   <perfil>Dark</perfil>
+   <forma>Café de grano entero</forma>
+   <sabores>
+       <sabor>Chocolate Oscuro</sabor>
+       <sabor>Dulce</sabor>
+   </sabores>
+   <imagenprincipal>http://200.53.147.250/cms/xml/imagenes/382.jpg</imagenprincipal>
+   <imagenes>
+       <imagen>http://200.53.147.250/cms/xml/imagenes/383.jpg</imagen>
+   </imagenes>
+</cafe>
+<cafe>
+   <nombre>Christmas Blend</nombre>
+   <descripcion>Es dulce y especiado ideal para todas las tradiciones navideñas. Esta opción combina la brillante acidez de los cafés de América Latina con la tenue suavidad de los cafés de Asia/ pacífico, incluyendo algunos raros granos añejos de Indonesia.</descripcion>
+   <disponibilidad>Temporada</disponibilidad>
+   <perfil>Temporada</perfil>
+   <forma>Café de grano entero</forma>
+   <sabores>
+       <sabor>Herbal</sabor>
+       <sabor>Dulce</sabor>
+       <sabor>Especiado</sabor>
+   </sabores>
+   <imagenprincipal>http://200.53.147.250/cms/xml/imagenes/384.jpg</imagenprincipal>
+   <imagenes>
+       <imagen>http://200.53.147.250/cms/xml/imagenes/386.jpg</imagen>
+   </imagenes>
+</cafe>
+<cafe>
+   <nombre>Colombia</nombre>
+   <descripcion>De cuerpo medio, suave y bien balanceado, con un sabor distintivo a nueces que se encuentra sólo en el café Colombia.</descripcion>
+   <disponibilidad>Todo el año</disponibilidad>
+   <perfil>Medium</perfil>
+   <forma>Café de grano entero</forma>
+   <sabores>
+       <sabor>Balanceado</sabor>
+       <sabor>Nueces</sabor>
+   </sabores>
+   <imagenprincipal>http://200.53.147.250/cms/xml/imagenes/387.jpg</imagenprincipal>
+   <imagenes>
+       <imagen>http://200.53.147.250/cms/xml/imagenes/388.jpg</imagen>
+   </imagenes>
+</cafe>
+<cafe>
+   <nombre>Guatemala Casi Cielo</nombre>
+   <descripcion>Guatemala Casi Cielo™, es un café de altura reconocido por su aroma floral único, acidez balanceada y un cuerpo suave con toques de limón y cacao oscuro.</descripcion>
+   <disponibilidad>Temporada</disponibilidad>
+   <perfil>Temporada</perfil>
+   <forma>Café de grano entero</forma>
+   <sabores>
+       <sabor>Elegante</sabor>
+       <sabor>Floral</sabor>
+   </sabores>
+   <imagenprincipal>http://200.53.147.250/cms/xml/imagenes/391.jpg</imagenprincipal>
+   <imagenes>
+       <imagen>http://200.53.147.250/cms/xml/imagenes/392.jpg</imagen>
+   </imagenes>
+</cafe>
+<cafe>
+   <nombre>House Blend</nombre>
+   <descripcion>Una mezcla de cafes de Latinoamérica de cuerpo medio. Oferce una acidez vibrante y limpia, sabores bien balanceados.</descripcion>
+   <disponibilidad>Todo el año</disponibilidad>
+   <perfil>Medium</perfil>
+   <forma>Café de grano entero</forma>
+   <sabores>
+       <sabor>Balanceado</sabor>
+       <sabor>Vibrante</sabor>
+   </sabores>
+   <imagenprincipal>http://200.53.147.250/cms/xml/imagenes/393.jpg</imagenprincipal>
+   <imagenes>
+       <imagen>http://200.53.147.250/cms/xml/imagenes/394.jpg</imagen>
+   </imagenes>
+</cafe>
+<cafe>
+   <nombre>Kenya</nombre>
+   <descripcion>Ofrece capas de complejidad incluyendo notas de jugosa acidez, inconfundible sabor a toronja, a vino tinto y un cuerpo medio.</descripcion>
+   <disponibilidad>Todo el año</disponibilidad>
+   <perfil>Medium</perfil>
+   <forma>Café de grano entero</forma>
+   <sabores>
+       <sabor>Complejo</sabor>
+       <sabor>Jugoso</sabor>
+   </sabores>
+   <imagenprincipal>http://200.53.147.250/cms/xml/imagenes/395.jpg</imagenprincipal>
+   <imagenes>
+       <imagen>http://200.53.147.250/cms/xml/imagenes/396.jpg</imagen>
+   </imagenes>
+</cafe>
+<cafe>
+   <nombre>Shade Grown Mexico</nombre>
+   <descripcion>Cuerpo medio con una acidez vibrante, un ligero sabor a nueces y un dejo refrescante. El café crece bajo árboles de sombra en pequeñas fincas.</descripcion>
+   <disponibilidad>Todo el año</disponibilidad>
+   <perfil>Medium</perfil>
+   <forma>Café de grano entero</forma>
+   <sabores>
+   </sabores>
+   <imagenprincipal>http://200.53.147.250/cms/xml/imagenes/397.jpg</imagenprincipal>
+   <imagenes>
+       <imagen>http://200.53.147.250/cms/xml/imagenes/398.jpg</imagen>
+   </imagenes>
+</cafe>
+<cafe>
+   <nombre>Sumatra</nombre>
+   <descripcion>Terroso e impredecible, con un sabor inusualmente concentrado; cuerpo completo, robusto y un profundo aroma terroso.</descripcion>
+   <disponibilidad>Todo el año</disponibilidad>
+   <perfil>Dark</perfil>
+   <forma>Café de grano entero</forma>
+   <sabores>
+       <sabor>Herbal</sabor>
+       <sabor>Terroso</sabor>
+   </sabores>
+   <imagenprincipal>http://200.53.147.250/cms/xml/imagenes/399.jpg</imagenprincipal>
+   <imagenes>
+       <imagen>http://200.53.147.250/cms/xml/imagenes/400.jpg</imagen>
+   </imagenes>
+</cafe>
+<cafe>
+   <nombre>Tribute Blend</nombre>
+   <descripcion>Resultado de una mezcla de cuatro de nuestros más sorprendentes cafés, cada uno representando un significado único para la historia de Starbucks y valorado tanto por partners como por clientes.</descripcion>
+   <disponibilidad>Temporada</disponibilidad>
+   <perfil>Temporada</perfil>
+   <forma>Café de grano entero</forma>
+   <sabores>
+       <sabor>Moras</sabor>
+       <sabor>Acaramelado</sabor>
+       <sabor>Especiado</sabor>
+   </sabores>
+   <imagenprincipal>http://200.53.147.250/cms/xml/imagenes/401.jpg</imagenprincipal>
+   <imagenes>
+       <imagen>http://200.53.147.250/cms/xml/imagenes/402.jpg</imagen>
+   </imagenes>
+</cafe>
+<cafe>
+   <nombre>Veranda Blend</nombre>
+   <descripcion>Este café es suave y accesible con delicados matices de cacao y nueces ligeramente tostadas ofreciendo un cuerpo ligero y acidez media.</descripcion>
+   <disponibilidad>Todo el año</disponibilidad>
+   <perfil>Blonde</perfil>
+   <forma>Café de grano entero</forma>
+   <sabores>
+       <sabor>Suave</sabor>
+       <sabor>Delicado</sabor>
+   </sabores>
+   <imagenprincipal>http://200.53.147.250/cms/xml/imagenes/403.jpg</imagenprincipal>
+   <imagenes>
+       <imagen>http://200.53.147.250/cms/xml/imagenes/404.jpg</imagen>
+   </imagenes>
+</cafe>
+<cafe>
+   <nombre>Willow Blend</nombre>
+   <descripcion>Este café es brillante y limpio y sus sabores cítricos ofrecen un cuerpo ligero con alta acidez además de que es balanceado y complejo.</descripcion>
+   <disponibilidad>Todo el año</disponibilidad>
+   <perfil>Blonde</perfil>
+   <forma>Café de grano entero</forma>
+   <sabores>
+       <sabor>Brillante</sabor>
+       <sabor>Limpio</sabor>
+   </sabores>
+   <imagenprincipal>http://200.53.147.250/cms/xml/imagenes/405.jpg</imagenprincipal>
+   <imagenes>
+       <imagen>http://200.53.147.250/cms/xml/imagenes/406.jpg</imagen>
+   </imagenes>
+</cafe>
+</cafes>
